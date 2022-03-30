@@ -1,0 +1,8 @@
+{
+  "name": "Portfolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "060834d9"
+}
